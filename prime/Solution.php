@@ -2,6 +2,7 @@
 
 namespace prime\Solution;
 
+// BEGIN
 function isPrime($n)
 {
     if ($n == 2) {
@@ -18,3 +19,4 @@ function isPrime($n)
 
     return true;
 }
+// END
